@@ -15,4 +15,5 @@ Scripts:
 10-back - changes working directory to previous one.
 11-lists - lists all files in long format in current home and boot directories.
 12-file_type - prints file named iamafile from tmp.
+13-symbolic_link.
 why?
