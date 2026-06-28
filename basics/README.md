@@ -18,4 +18,5 @@ Scripts:
 13-symbolic_link.
 14-copy_html.
 15-lets_move - moves files in uppercase.
+16-clean_emacs- removes files with ~ symbol.
 why?
