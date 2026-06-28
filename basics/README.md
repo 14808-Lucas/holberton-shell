@@ -14,4 +14,5 @@ Scripts:
 9-firstdirdeletion - deletes directory in myfirst directory found in tmp.
 10-back - changes working directory to previous one.
 11-lists - lists all files in long format in current home and boot directories.
+12-file_type - prints file named iamafile from tmp.
 why?
