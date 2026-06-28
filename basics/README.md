@@ -11,4 +11,5 @@ Scripts:
 6-firstdirectory - creates directory named my_first_directory in tmp directory.
 7-movethatfile - moves the file betty from tmp into myfirst directory.
 8-firstdelete - deletes the file betty from tmp.
+9-firstdirdeletion - deletes directory in myfirst directory found in tmp.
 why?
