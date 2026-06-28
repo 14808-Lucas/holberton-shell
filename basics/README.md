@@ -12,4 +12,5 @@ Scripts:
 7-movethatfile - moves the file betty from tmp into myfirst directory.
 8-firstdelete - deletes the file betty from tmp.
 9-firstdirdeletion - deletes directory in myfirst directory found in tmp.
+10-back - changes working directory to previous one.
 why?
