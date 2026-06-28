@@ -10,4 +10,5 @@ Scripts:
 5-listfilesdigitonly - displays current directory with user and group IDs displayed numerically with hidden files.
 6-firstdirectory - creates directory named my_first_directory in tmp directory.
 7-movethatfile - moves the file betty from tmp into myfirst directory.
+8-firstdelete - deletes the file betty from tmp.
 why?
