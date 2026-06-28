@@ -17,4 +17,5 @@ Scripts:
 12-file_type - prints file named iamafile from tmp.
 13-symbolic_link.
 14-copy_html.
+15-lets_move - moves files in uppercase.
 why?
