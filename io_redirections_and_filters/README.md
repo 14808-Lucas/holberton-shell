@@ -10,4 +10,8 @@ Shell I/O redirection
 8-cwd_state.
 9-duplicate_last_line - duplicates the last line of the iacta.
 10-no_more_js- deletes all regular files with a .js extension, in current directory/subfolders.
+11-directories- script that counts the number of directories and sub directories in current.
+12-newest_files- script that displays the 10 newest files in current directory. 1 perline newest-oldest.
+13-unique - script that takes a list of words as inputs/outputs and prints words exactly once.
+14-findthatword - display lines containing the patter "root" from the file etc/passwd.
 
