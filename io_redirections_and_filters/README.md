@@ -14,4 +14,12 @@ Shell I/O redirection
 12-newest_files- script that displays the 10 newest files in current directory. 1 perline newest-oldest.
 13-unique - script that takes a list of words as inputs/outputs and prints words exactly once.
 14-findthatword - display lines containing the patter "root" from the file etc/passwd.
+15-countthatword- displays the number of lines containing the pattern "bin" in etc/passwd.
+16-
+17-hidethisword-displays all lines in file etc/passwd that do not have "bin".
+18-
+19-
+20
+21-
+22- displays users and their home directories sorted by users based on etc/passwd file.
 
